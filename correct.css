@@ -1,0 +1,19 @@
+.correct{
+    height: 400px;
+    width: 400px;
+    padding-left: 550px;
+}
+h1{
+    padding-left: 500px;
+    
+}
+h2{
+    padding-left: 625px;
+}
+a{
+    text-decoration: none;
+    padding-left: 500px;
+}
+body{
+    background-color: tomato;
+}
